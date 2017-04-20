@@ -1,7 +1,7 @@
 @ECHO off
 REM get around cmd block
 
-color A
+color D
 title REKT
 SET /a "x = 0"
 :while1
