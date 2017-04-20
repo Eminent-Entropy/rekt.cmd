@@ -1,6 +1,8 @@
 @ECHO off
 REM get around cmd block
 
+color A
+title REKT
 SET /a "x = 0"
 :while1
 	if %x% leq 5 (
